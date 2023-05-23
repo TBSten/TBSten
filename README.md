@@ -1,6 +1,6 @@
 # TBSten
 
-![TBStenicon](https://user-images.githubusercontent.com/81161390/233950814-6fa993e4-17ab-4453-a906-a232d18e43f8.png)
+![tbsten-icon](https://github.com/TBSten/TBSten/assets/81161390/89f8ce8b-7f94-4665-870c-8af41e60efd0)
 
 プログラミング好きなしがない専門学校生です。
 
