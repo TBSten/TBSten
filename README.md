@@ -34,7 +34,7 @@ Githubに上げてるものは特筆がなければ自由にどぞどぞ
 
 ## 👀👀 used
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,blender,cs,dotnet,visualstudio,html,css,django,eclipse,electron,express,figma,firebase,flask,heroku,idea,java,jquery,linux,mongodb,mysql,planetscale,postgres,powershell,py,redux,supabase,svg,vercel,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,blender,cs,dotnet,visualstudio,html,css,django,eclipse,electron,express,figma,firebase,flask,heroku,idea,java,jquery,linux,mongodb,mysql,planetscale,postgres,powershell,py,redux,supabase,svg,vercel,wordpress,fastapi)](https://skillicons.dev)
 
 ## ⭐️ want
 
