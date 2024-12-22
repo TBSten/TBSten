@@ -1,8 +1,8 @@
 # TBSten
 
-![tbsten-icon](https://github.com/TBSten/TBSten/assets/81161390/89f8ce8b-7f94-4665-870c-8af41e60efd0)
+<img src="https://github.com/TBSten/TBSten/assets/81161390/89f8ce8b-7f94-4665-870c-8af41e60efd0" alt="tbsten" width="300" />
 
-プログラミング好きなしがない専門学校生です。
+Kotlinとアフロ⭐️サムライを愛するAndroidエンジニア Lv 1
 
 Githubに上げてるものは特筆がなければ自由にどぞどぞ
 
